@@ -1,0 +1,44 @@
+_repo: Sargasso-of-Lost-Starships_64048
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Vestal, H. B. (Herman B.)
+    - Vestal, Herman Beeson
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+creator:
+  author:
+    agent_name: Anderson, Poul
+    aliases:
+    - Craig, A. A.
+    - Anderson, Poul William
+    - Saunders, Winston P.
+    - Craig, A.A.
+    - Sanders, Winston P.
+    - Karageorge, Michael
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: ''
+gutenberg_issued: '2020-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Sargasso of Lost Starships
+url: http://www.gutenberg.org/ebooks/64048
